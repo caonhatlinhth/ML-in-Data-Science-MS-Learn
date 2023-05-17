@@ -34,3 +34,10 @@ The projects and exercises may require the following libraries and tools:
 - Jupyter Notebook or JupyterLab
 - Libraries such as pandas, numpy, scikit-learn, matplotlib, seaborn, and Azure Machine Learning SDK.
 - Azure subscription for using Azure Machine Learning services (if applicable).
+
+**Certificate after taking DP-1OO exam from Microsoft**
+
+![image](https://github.com/caonhatlinhth/ML-in-Data-Science-MS-Learn/assets/62228403/29207cc9-3194-45e6-b3fc-6202bdd45c08)
+
+- Issue date: April 21, 2022
+- Valid until: April 21, 2023
